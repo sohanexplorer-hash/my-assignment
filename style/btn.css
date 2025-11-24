@@ -1,0 +1,17 @@
+.btn{
+    padding: 14px 30px;
+    border: none;
+    border-radius: 25px;
+    font-weight: bold;
+     box-shadow: 0 11px 31px 0 #8C8C8C;
+     cursor: pointer;
+     margin: 20px;
+     transition: .5s;
+     border: 2px solid slategrey;
+     background-color: #FF136F;
+}
+.btn:hover,
+.btn:hover{
+    background-color: cornsilk;
+    color: black;
+}

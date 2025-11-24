@@ -1,0 +1,50 @@
+#hero{
+    margin: 40px;
+}
+.hero2{
+    background-color: #FEEAE9;
+    /* padding: 120px; */
+    
+}
+#box2 h1{
+    font-size: 50px;
+    margin: 20px;
+}
+
+.hero2{
+    border-radius: 10px;
+    /* padding: 20px; */
+}
+/* #box2 button{
+    background-color: #FF136F;
+    margin: 20px;
+} */
+#box2 h2{
+    color: #FF136F;
+    margin: 20px;
+    font-size: 40px;
+}
+#box2 p{
+    margin: 20px;
+    font-size: 20px;
+    color: grey;
+
+}
+
+#boxs{
+    display: flex;
+    /* align-items: end; */
+    justify-content: space-between;
+    box-sizing: border-box;
+    align-items: center;
+    
+    
+    
+    
+
+}
+
+#box2{
+    flex-direction: column-reverse;
+    
+}

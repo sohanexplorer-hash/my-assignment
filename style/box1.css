@@ -1,0 +1,31 @@
+#hero-contain{
+    justify-content:  space-between;
+    display: flex;
+    align-items: end;
+    background-color: #FFFFFF;
+    /* width: 90%; */
+    /* height: 84px; */
+    /* margin: 40px; */
+    border-radius: 20px;
+    padding: 15px;
+    
+    /* padding: 4px; */
+    /* margin: 40px;     */
+
+}
+
+#color{
+    background-color:#E5E5E5 ;
+}
+.hero2{
+    display: flex;
+}
+#boxs{
+    justify-content: space-between;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
