@@ -2,10 +2,11 @@
     display: flex;
     justify-content: space-between;
     align-items: end;
-    gap: 20px;
+    gap:20px;
     text-align: center;
-    margin:0 auto;
-    margin-bottom: 30px;
+    /* margin:0 auto; */
+    padding-bottom: 60px;
+    /* margin-bottom: 30px; */
     /* padding: 20px; */
 
     /* width: 80.5%; */
@@ -33,4 +34,8 @@ margin-bottom: 20px;
     border-radius: 30px;
     border: 2px solid black;
     /* padding: 30px; */
+}
+.heading h4 {
+    font-size: 90px;
+    margin-bottom: 30px;
 }
